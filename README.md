@@ -1,4 +1,4 @@
-<h1>👋 I'm Ace!</h1>
+<h1>I'm Ace 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 [![Ace's WakaTime stats](https://github-readme-stats-nine-lake-44.vercel.app/api/wakatime?username=realsgm)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realsgm&label=Profile%20views&color=0e75b6&style=flat" alt="realsgm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realsgm&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="realsgm" /> </p>
