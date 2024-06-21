@@ -16,4 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-navy-psi-47.vercel.app/api?username=realsgm&show_icons=true&locale=en" alt="realsgm" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats-navy-psi-47.vercel.app/api?username=realsgm)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realsgm&" alt="realsgm" /></p>
