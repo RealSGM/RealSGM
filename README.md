@@ -20,11 +20,11 @@
 
 ![Ace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realsgm&theme=dracula)
 
-[![Ace's GitHub stats](https://github-readme-stats-nine-lake-44.vercel.app/api?username=realsgm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Ace's GitHub stats](https://github-readme-stats-nine-lake-44.vercel.app/api?username=realsgm&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-nine-lake-44.vercel.app/api/top-langs/?username=realsgm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-nine-lake-44.vercel.app/api/top-langs/?username=realsgm&theme=dracula)
 
-[![Ace's WakaTime stats](https://github-readme-stats-nine-lake-44.vercel.app/api/wakatime?username=realsgm)](https://github.com/anuraghazra/github-readme-stats)
+![Ace's WakaTime stats](https://github-readme-stats-nine-lake-44.vercel.app/api/wakatime?username=realsgm)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsgm&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="realsgm" /> </p>
