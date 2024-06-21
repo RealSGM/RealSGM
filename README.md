@@ -14,6 +14,10 @@
 
 ----
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realsgm" alt="realsgm" /></a> </p>
+
+----
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realsgm&theme=dracula" alt="realsgm" /></p>
 
 [![Ace's GitHub stats](https://github-readme-stats-git-master-ace-shyjans-projects.vercel.app/api?username=realsgm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
