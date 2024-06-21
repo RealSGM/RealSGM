@@ -16,5 +16,7 @@
 
 [![Top Langs](https://github-readme-stats-git-master-ace-shyjans-projects.vercel.app/api/top-langs/?username=realsgm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats-git-master-ace-shyjans-projects.vercel.app/api/wakatime?username=realsgm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsgm&label=Profile%20views&color=0e75b6&style=flat" alt="realsgm" /> </p>
