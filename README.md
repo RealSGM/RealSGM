@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsgm)](https://github.com/anuraghazra/github-readme-stats)
 <h1>👋 I'm Ace!</h1>
 
 <h3 align="left">Connect with me:</h3>
