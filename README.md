@@ -18,7 +18,7 @@
 
 ----
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realsgm&theme=dracula" alt="realsgm" /></p>
+[![Ace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realsgm&theme=dracula)]
 
 [![Ace's GitHub stats](https://github-readme-stats-nine-lake-44.vercel.app/api?username=realsgm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
