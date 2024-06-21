@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realsgm&show_icons=true&locale=en&layout=compact&theme=dracula" alt="realsgm" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-git-master-ace-shyjans-projects.vercel.app)/api?username=realsgm&show_icons=true&locale=en" alt="realsgm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-ace-shyjans-projects.vercel.app/api?username=realsgm&show_icons=true&locale=en" alt="realsgm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realsgm&theme=dracula" alt="realsgm" /></p>
 
